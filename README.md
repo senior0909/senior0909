@@ -25,8 +25,7 @@
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=senior0909&count_private=true&show_icons=true&hide_title=true" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=senior0909&layout=compact&theme=vue" style="min-width:800px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=senior0909&show_icons=true&theme=radical" /> 
 </p>
 
 
