@@ -3,6 +3,6 @@
 
 <p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=senior0909&theme=onedark" alt="senior0909" />
+		<img src="https://github-profile-trophy.vercel.app/?username=senior0909&theme=flat" alt="senior0909" />
 	</a> 
 </p> 
