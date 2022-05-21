@@ -26,7 +26,7 @@
 </p>
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=senior0909&show_icons=true&theme=radical"  style="display: inline-flex;"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=senior0909&layout=compact&theme=radical" style="min-width:800px;display: inline-flex;"/>
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=senior0909&layout=compact&theme=radical" style="min-width:800px;display: inline-flex;"/> -->
 </p>
 
 
