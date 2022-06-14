@@ -1,5 +1,8 @@
 <h1 align="center">Welcome 👋 to Senior Repo</h1>
-<h3 align="left">Senior software engineer experienced in designing and delivering high-quality code improving systems’ efficiency and optimizing operational costs.</h3>
+<h3 align="left">
+	Senior software engineer experienced in designing and delivering high-quality code improving systems’ efficiency and optimizing operational costs.
+	I am focusing in Rust/Go/Solidity development for new project nowadays.
+</h3>
 
 <p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
